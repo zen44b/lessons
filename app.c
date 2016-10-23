@@ -49,6 +49,8 @@ void helpCommand(void) //help print function
 {
 	printf("%s:\n\n\t\tDisplays the version of the programm\n",ValidFlags[0]);
 	printf("%s:\n\n\t\tDisplays this message.\n",ValidFlags[1]);
+	printf("%s:\n\n\t\tIdiot cloner with super option\n",ValidFlags[2]);
+
 }
 void idiotCommand(void)
 {
